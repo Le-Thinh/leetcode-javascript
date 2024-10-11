@@ -40,4 +40,4 @@ const merge = (nums1, m, nums2, n) => {
 
 nums1 = [1, 2, 3];
 nums2 = [3, 4, 5];
-console.log(merge(nums1, nums1.length, nums2, nums2.length));
+console.log('Merge Sorted Array',merge(nums1, nums1.length, nums2, nums2.length));
