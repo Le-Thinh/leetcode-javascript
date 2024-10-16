@@ -35,4 +35,4 @@ let removeDuplicatesII = (nums) => {
 };
 
 let nums1 = [1, 1, 1, 2, 2, 3, 3, 3];
-console.log('Remove Duplicates II', removeDuplicatesII(nums1));
+console.log('80 - Remove Duplicates II', removeDuplicatesII(nums1));

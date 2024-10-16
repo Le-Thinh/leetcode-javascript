@@ -20,4 +20,4 @@ const removeDuplicates = (nums) => {
 }
 
 let nums = [1, 1, 2, 2, 3, 3, 4, 5, 6, 7, 8, 8];
-console.log('Remove Duplicates From Sorted Array',removeDuplicates(nums));
+console.log('26 - Remove Duplicates From Sorted Array',removeDuplicates(nums));

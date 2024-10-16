@@ -19,4 +19,4 @@ const removeElement = (nums, val) => {
     return nums;
 }
 nums = [1, 2, 3, 1, 2];
-console.log('Remove Element',removeElement(nums, 1));
+console.log('27 - Remove Element',removeElement(nums, 1));
